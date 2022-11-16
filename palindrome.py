@@ -24,3 +24,5 @@ def check_if_palindrome2(phraze):
 print(check_if_palindrome2("racecar"))
 print(check_if_palindrome2("taco cat"))
 print(check_if_palindrome2("taco cats"))
+
+print(check_if_palindrome2("123321"))
